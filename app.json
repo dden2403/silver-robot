@@ -1,23 +1,23 @@
 {
-  "name": "Silver-robot",
+  "name": "Silver-Robot",
   "env": {
      "ENCRYPT": {
       "description": "My shifrovanie.",
       "value": "chacha20-ietf-poly1305"
     },
      "PASSWORD": {
-      "description":"description": "password" ,
-      "value": "Myshkin.2403."
+      "description": "password",
+      "value": "A24031984-A24031984"
     },
 
      "V2_Path": {
-      "description":  "Auto-generated with some secret value.",
+      "description": "V2Ray handler path. Auto-generated with some secret value.",
       "generator": "secret"
     },
 
      "AppName": {
-      "description":  "App Name",
-      "value": "Silver-robot"
+      "description": "App Name",
+      "value": "Silver-Robot"
     },
 
     "QR_Path": {

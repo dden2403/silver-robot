@@ -11,7 +11,7 @@
     },
 
      "V2_Path": {
-      "description": "V2Ray handler path. Auto-generated with some secret value.",
+      "description": "Auto-generated with some secret value.",
       "generator": "secret"
     },
 
